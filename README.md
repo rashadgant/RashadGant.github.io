@@ -8,7 +8,7 @@
 - Grow
 - Repeat the above
 
-<img src=""/>
+<img src="when-do-puppies-start-walking.jpg"/>
 
 ### Things I need to do and stuff
 
