@@ -1,5 +1,3 @@
-# RashadGant.github.io
-
 # Title of All Titles and Junk
 
 
