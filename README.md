@@ -1,8 +1,9 @@
 # RashadGant.github.io
 
-### Title of All Titles and Junk
+# Title of All Titles and Junk
 
-### Things I like to do and stuff
+
+## Things I like to do and stuff
 
 - Learn
 - Grow
@@ -10,7 +11,7 @@
 
 <img src="when-do-puppies-start-walking.jpg"/>
 
-### Things I need to do and stuff
+## Things I need to do and stuff
 
 [x] Experience
 [ ] Develope
