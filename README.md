@@ -1,7 +1,7 @@
 # Title of All Titles and Junk
 
 
-## Things I like to do and stuff
+## Things I Like To Do and Stuff
 
 - Learn
 - Grow
@@ -9,7 +9,7 @@
 
 <img src="when-do-puppies-start-walking.jpg"/>
 
-## Things I need to do and stuff
+## Things I Need To Do and Stuff
 
 [x] Experience
 [ ] Develope
