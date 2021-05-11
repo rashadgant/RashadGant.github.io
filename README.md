@@ -13,4 +13,4 @@
 
 [x] Experience
 [ ] Develope
-[ ] Relay information
+[x] Relay information
